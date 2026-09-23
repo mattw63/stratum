@@ -1,4 +1,5 @@
 # Stratum ATE
+![Logo](./documentation/stratum.jpg)
 Modular test &amp; measurement system platform
 
 ## Licensing
