@@ -1,0 +1,3 @@
+[submodule "firmware/generators"]
+	path = firmware/generators
+	url = git@github.com:mattw63/generators.git

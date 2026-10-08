@@ -1,0 +1,21 @@
+---
+
+NAME: STRATUM
+CREATION_DATE: 10/8/2026
+AUTHOR: M. Wagner
+
+DESCRIPTION: >
+  Modular benchtop test/measurement system
+
+NODES:
+  controller:
+    TYPE: FW
+    TOOL: VIVADO
+    VERSION: "2024.2"
+    MODULES: YES
+    SIM: YES
+    IP: YES
+    BD: YES
+    SCRIPTS: YES
+    PART: "xc7s6cpga196-2"
+
